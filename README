@@ -1,0 +1,12 @@
+LASTREVISION
+------------
+
+DEFINIÇÃO:
+LastRevision é um conjunto de script que cria um arquivo com a ultima versão de todos os objetos de algum diretório.
+
+
+UTILIZAÇÃO:
+1 - Inserir os arquivos lr.py e lr.bat no diretório que possui os arquivos desejados.
+2 - Executar o lr.bat
+3 - Inserir o nome do arquivo(OBS: Sem a extenção.) 
+
